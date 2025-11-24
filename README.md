@@ -14,33 +14,35 @@ I'm a motivated professional in **Cloud & DevOps** space — driven by curiosity
 
 ### 🧰 Tech Stack & Tools
 
-#### ☁️ Cloud  
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+<p align="left">
+
+<!-- Cloud -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" />
+
+
+<!-- CI/CD -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" title="Jenkins"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" title="GitLab CI/CD"/>
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="50" title="GitHub Actions"/>
+
+
+<!-- Containers -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes"/>
+
+<!-- IaC -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" title="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" title="Ansible"/>
+
+<!-- Scripting & Monitoring -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Shell Script"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" title="Grafana"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" title="Prometheus"/>
+
 </p>
 
-#### 🔧 DevOps | CI/CD  
-<p>
-<img src="https://img.shields.io/badge/GitHub_Actions-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-</p>
-
-#### 🏗️ Infrastructure as Code  
-<p>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
-</p>
-
-#### 📡 Monitoring & Automation  
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" />
-</p>
 
 ---
 
@@ -69,11 +71,25 @@ These helped me build a strong understanding of **CI/CD pipelines, IaC, orchestr
 ### 📬 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gowtham-kl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/OpsifyGowtham"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="https://gowthamkl-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-<a href="mailto:gowtham199890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/gowtham-kl/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" />
+</a>
+
+<a href="https://x.com/OpsifyGowtham" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter / X" />
+</a>
+
+<a href="https://gowthamkl-portfolio.netlify.app/" target="_blank">
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" title="Portfolio / Netlify" />
+</a>
+
+<a href="mailto:gowtham199890@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email" />
+</a>
+
 </p>
+
 
 ---
 
