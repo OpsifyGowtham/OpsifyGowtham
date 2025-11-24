@@ -50,6 +50,15 @@ I’m eager to apply these skills in a professional DevOps or Cloud Engineering 
 
 ---
 
+### **Certifications**
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/gowthamkl-1814/credentials/f70664bfa4e24280?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Certified-blue?logo=githubactions&logoColor=white")/>
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
