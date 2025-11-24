@@ -67,23 +67,11 @@ These helped me build a strong understanding of **CI/CD pipelines, IaC, orchestr
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayith&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayith&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📬 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK-HERE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gowtham-kl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:gowtham199890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
