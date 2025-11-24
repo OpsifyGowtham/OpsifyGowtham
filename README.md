@@ -64,9 +64,9 @@ I’m eager to apply these skills in a professional DevOps or Cloud Engineering 
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gowthamkl-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-kl/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayith_gowtham/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OpsifyGowtham?t=kvTnC3DKpDuDTtEZYk_OHw&s=09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-orange?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-kl/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-green?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayith_gowtham/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-yellow?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OpsifyGowtham?t=kvTnC3DKpDuDTtEZYk_OHw&s=09)
 [![Email](https://img.shields.io/badge/Email-OpsifyGowtham-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham199890@gmail.com)
 
 </div>
